@@ -1,0 +1,11 @@
+# Default ignored files
+/shelf/
+/workspace.xml
+/src/main/java/resources
+
+#Intellij
+.idea/
+src/test/resources/
+
+#projeto
+DesafioAPI_GETNET.iml
